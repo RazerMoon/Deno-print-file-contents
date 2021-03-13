@@ -1,6 +1,0 @@
-make.exe --dry-run --always-make --keep-going --print-directory
-make: Entering directory 'c:/Users/games/Desktop/bruh'
-make: Leaving directory 'c:/Users/games/Desktop/bruh'
- 
-Makefile:1: *** missing separator.  Stop.
- 
